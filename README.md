@@ -1,19 +1,14 @@
+# Med-Bot
 
+The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores.
 
-# Llama2 Medical Bot
+• Developed a highly accurate Medical Chatbot using LLama 2, and integrated the extensive Gale Dictionary as a knowledge base for precise medical query responses.
 
-The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
+• Leveraged ChainLit for rapid application development and integrated FAISS for efficient data retrieval, enhancing the
+chatbot’s capabilities.
 
-## Table of Contents
-
-- [Introduction](#langchain-medical-bot)
-- [Table of Contents](#table-of-contents)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+• Significantly improved user access to reliable health information with a cutting-edge chatbot solution supported by the
+comprehensive Gale Dictionary
 
 ## Prerequisites
 
