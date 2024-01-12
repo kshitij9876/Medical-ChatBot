@@ -39,3 +39,7 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 ## Architecture
 ![image](https://github.com/kshitij9876/Medical-ChatBot/assets/79054089/ea62e459-059a-41a1-8dc0-94e5061c628c)
 
+## Result
+![image](https://github.com/kshitij9876/Medical-ChatBot/assets/79054089/d349fd24-7d48-4a85-9caa-223521187fc4)
+![image](https://github.com/kshitij9876/Medical-ChatBot/assets/79054089/253a8ab3-59f6-4cda-bd50-7b683d55820b)
+
