@@ -35,3 +35,7 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 4. If sources are found, they will be provided alongside the answer.
 
 5. The bot can be customized to return specific information based on the query and context provided.
+
+## Architecture
+![image](https://github.com/kshitij9876/Medical-ChatBot/assets/79054089/ea62e459-059a-41a1-8dc0-94e5061c628c)
+
