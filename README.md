@@ -16,11 +16,10 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
 - Python 3.6 or higher
 - Required Python packages (you can install them using pip):
-    - langchain
-    - chainlit
-    - sentence-transformers
-    - faiss
-    - PyPDF2 (for PDF document loading)
+    - langchain (Designed to develop diverse applications powered by language models more effortlessly, including chatbots, question-answering, etc.)
+    - chainlit (Python package that simplifies the process of building and sharing Language Learning Model (LLM) applications.)
+    - sentence-transformers (To compute embeddings (dense vector representations) for sentences, paragraphs and images.)
+    - faiss (Facebook AI Similarity Search is a library that allows developers to quickly search for embeddings of multimedia documents that are similar to each other.)
 
 ## Usage
 
