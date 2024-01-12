@@ -4,6 +4,8 @@ The Llama2 Medical Bot is a powerful tool designed to provide medical informatio
 
 • Developed a highly accurate Medical Chatbot using LLama 2, and integrated the extensive Gale Dictionary as a knowledge base for precise medical query responses.
 
+• Utilised RAG Technique which combines the strengths of pre-trained language models and information retrieval systems to generate responses in a conversational AI system or to create content by leveraging knowledge from Gale Dictionary.
+
 • Leveraged ChainLit for rapid application development and integrated FAISS for efficient data retrieval, enhancing the
 chatbot’s capabilities.
 
